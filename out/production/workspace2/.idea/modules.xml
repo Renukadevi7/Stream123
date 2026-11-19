@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank/Bank.iml" filepath="$PROJECT_DIR$/bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank/loan/Loan.iml" filepath="$PROJECT_DIR$/bank/loan/Loan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams 25 Challenges/high17to25Challenges/high17to25Challenges.iml" filepath="$PROJECT_DIR$/streams/streams 25 Challenges/high17to25Challenges/high17to25Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams 25 Challenges/high9to17Challenges/high25Challenges.iml" filepath="$PROJECT_DIR$/streams/streams 25 Challenges/high9to17Challenges/high25Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nthread/nthread.iml" filepath="$PROJECT_DIR$/nthread/nthread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams 25 Challenges/stream1to8Challenges/stream1to8Challenges.iml" filepath="$PROJECT_DIR$/streams/streams 25 Challenges/stream1to8Challenges/stream1to8Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams 25 Challenges/streams 25 Challenges.iml" filepath="$PROJECT_DIR$/streams/streams 25 Challenges/streams 25 Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace2.iml" filepath="$PROJECT_DIR$/workspace2.iml" />
+    </modules>
+  </component>
+</project>
